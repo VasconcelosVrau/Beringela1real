@@ -2,21 +2,21 @@
             Servidor em beta
 
 [Info] Servidor free, nada de pay to win.
-Traga 5 amigos, comprove clã e ganhe uma base!
+Traga 5 amigos, comprove cla e ganhe uma base!
 
-[Novidade] Som a cada ação
+[Novidade] Som a cada aÃ§ao
 [Novidade] Sistema de desmaio
 [Novidade] Sistema de crafting
 [Novidade] Sistema de loja
-[Novidade] Seleção de idioma
-[Novidade] Sistema de missão
+[Novidade] SeleÃ§ao de idioma
+[Novidade] Sistema de missao
 [Novidade] Sistema de conquista
 [Novidade] Zumbis corredores
-[Novidade] Criação de itens
-[Novidade] Áreas Militares
-[Novidade] Cão Guardião
-[Novidade] 18 veículos adicionados
-[Novidade] Diário de sobrevivente
+[Novidade] CriaÃ§ao de itens
+[Novidade] Areas Militares
+[Novidade] Cao Guardiao
+[Novidade] 18 veiculos adicionados
+[Novidade] Diario de sobrevivente
 [Novidade] Mais de 24 armas
 
 [Info] Em breve muito mais! Em caso de bug
