@@ -4,15 +4,15 @@
 [Info] Servidor free, nada de pay to win.
 Traga 5 amigos, comprove cla e ganhe uma base!
 
-[Novidade] Som a cada açao
+[Novidade] Som a cada acao
 [Novidade] Sistema de desmaio
 [Novidade] Sistema de crafting
 [Novidade] Sistema de loja
-[Novidade] Seleçao de idioma
+[Novidade] Selecao de idioma
 [Novidade] Sistema de missao
 [Novidade] Sistema de conquista
 [Novidade] Zumbis corredores
-[Novidade] Criaçao de itens
+[Novidade] Criacao de itens
 [Novidade] Areas Militares
 [Novidade] Cao Guardiao
 [Novidade] 18 veiculos adicionados
