@@ -4,7 +4,7 @@
 [Info] Servidor free, nada de pay to win.
 Traga 5 amigos, comprove cla e ganhe uma base!
 
-[Novidade] Som a cada acao
+[Novidade] Som a cada ação
 [Novidade] Sistema de desmaio
 [Novidade] Sistema de crafting
 [Novidade] Sistema de loja
