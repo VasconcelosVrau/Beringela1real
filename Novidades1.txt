@@ -11,6 +11,7 @@ Traga 5 amigos, comprove clã e ganhe uma base!
 [Novidade] Seleção de idioma
 [Novidade] Sistema de missão
 [Novidade] Sistema de conquista
+[Novidade] Recompensas por missão
 [Novidade] Primeira Pessoa
 [Novidade] Painel de Animação
 [Novidade] Zumbis corredores
@@ -21,6 +22,10 @@ Traga 5 amigos, comprove clã e ganhe uma base!
 [Novidade] Veículos com skins alteradas
 [Novidade] Diário de sobrevivente
 [Novidade] Mais de 24 armas
+[Novidade] Selecione onde quer spawnar
 
+[Info] Atualização toda semana, caso tenha
+sugestões contate um staff, aqui é você
+quem manda!
 [Info] Em breve muito mais! Em caso de bug
 relate ao staff. Bom jogo!
